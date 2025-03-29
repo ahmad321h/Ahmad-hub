@@ -1,0 +1,1 @@
+local-Settings-=-{-JoinTeam-=-"Marines";----Pirates/Marines-Translator-=-true;----true/false-}-loadstring(gameHttpGet("https/raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau"))(Settings)
